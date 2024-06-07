@@ -23,7 +23,7 @@
 
 # Nasıl Kayıt Olunur?
 
-t.me/BlumCryptoBot/app?startapp=ref_DGPPXW1x6y Referans Linkimi Kullanarak Beni Destekleyebilirsiniz.
+[https://t.me/BlumCryptoBot/app?startapp=ref_DGPPXW1x6y](https://t.me/BlumCryptoBot/app?startapp=ref_DGPPXW1x6y) Referans Linkimi Kullanarak Beni Destekleyebilirsiniz.
 
 # Nasıl Kullanılır
 
