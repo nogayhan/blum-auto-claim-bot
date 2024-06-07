@@ -254,8 +254,6 @@ class BlumTod:
         banner = f"""
     {hijau}Otomatik BLUM Farming Bot {hijau}
     
-    {hijau}Bot Sahibi Telegram : {putih}t.me/AkasakaID
-    {putih}Bot Sahibi Github : {hijau}@AkasakaID
     {biru}Sorumluluk Reddi Beyanı : {putih}Bu botun kullanımı tamamen kullanıcının kendi sorumluluğundadır. Botun çalışması sırasında meydana gelebilecek olası gelir kayıpları, veri kayıpları veya herhangi bir olumsuzluktan dolayı botun geliştiricisi hiçbir şekilde sorumlu tutulamaz. Bot, kullanıcının talimatlarına göre çalışmakta olup, kullanıcıların alacağı kararların sonuçlarından geliştirici mesuliyet kabul etmez. Bu botu kullanarak, yukarıdaki şartları kabul etmiş sayılırsınız.!
     
     {hijau}NOT : {putih}Lütfen Bot Güncellemelerini Takip Edin !
