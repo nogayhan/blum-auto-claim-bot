@@ -31,7 +31,7 @@
 
 2. Repoyu Klonlayın
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/nogayhan/blum-auto-claim-bot.git
    ```
 3. blum-auto-claim-bot alanına gidin
    ```
