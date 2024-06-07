@@ -121,3 +121,5 @@ Botu 7/24 çalıştırmak için vps/rdp kullanabilirsiniz. Linux vps'de screen u
 
 
 # Thank you < 3
+
+VIA: https://github.com/akasakaid/blumtod
