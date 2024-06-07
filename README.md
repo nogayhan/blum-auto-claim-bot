@@ -23,7 +23,7 @@
 
 # Nasıl Kayıt Olunur?
 
-Referansım dolu, bu yüzden tekrar referansa ihtiyacım yok. Arkadaşınızdan davet kodu isteyin!
+t.me/BlumCryptoBot/app?startapp=ref_DGPPXW1x6y Referans Linkimi Kullanarak Beni Destekleyebilirsiniz.
 
 # Nasıl Kullanılır
 
